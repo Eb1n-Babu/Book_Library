@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
+
+# Build and coverage
+dist/
+coverage/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Database or data files
+*.sqlite
+*.db
+
+# Misc
+*.tgz
+*.zip
